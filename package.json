@@ -4,6 +4,7 @@
 	},
 	"description": "A test web for the FreeCodeCamp Backend Certificate",
 	"keywords": [ "certification", "freecodecamp", "js"],
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
