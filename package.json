@@ -2,6 +2,7 @@
 	"author": {
 		"name": "Alejandro 'K33per' Alonso"
 	},
+	"description": "A test web for the FreeCodeCamp Backend Certificate",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
